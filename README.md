@@ -1,5 +1,4 @@
 # LinkedList
----
 Singly Linked List implemented with JavaScript
 
 Features
